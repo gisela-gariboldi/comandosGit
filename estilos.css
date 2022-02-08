@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Roboto+Condensed:wght@300&family=Schoolbell&display=swap');
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #355C7D;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #C06C84, #6C5B7B, #355C7D);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #C06C84, #6C5B7B, #355C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+}
+
+#imagen {
+    width: 150px;
+    height: auto;
+
+
+}
+
+#section {
+    padding: 10px;
+    text-align: center;
+    padding:20px;
+    max-width: 500px;
+    margin: 60px auto;
+    padding: 30px 20px 60px;
+}
+
+.contenedor {
+    text-align: center;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 1px rgba(255, 255, 255, .6);
+    max-width: 500px;
+    margin: 60px auto;
+    padding: 30px 20px 60px;
+}
+
+#sectionOne {
+    background-color: #aa5377;
+     
+}
+
+#sectionTwo {
+    background-color: #cf8da7;
+    
+}
+
+#sectionThree {
+    background-color: #4c6e81;
+}
+
+#sectionFour {
+    background-color: #7aacb3;;
+}
+
+footer {
+    text-align: center;
+}
+
+a, img {
+    width: 40px;
+}
